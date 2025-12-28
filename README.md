@@ -55,5 +55,5 @@ Le projet est réalisé en **Python** avec les bibliothèques suivantes :
 
 1. Clonez ce dépôt :
    ```bash
-   git clone [https://github.com/votre-nom-utilisateur/nom-du-projet.git](https://github.com/votre-nom-utilisateur/nom-du-projet.git)
+   git clone [https://github.com/votre-nom-utilisateur/nom-du-projet.git](https://github.com/medboukechouch/co2-emissions-analysis.git)
    
